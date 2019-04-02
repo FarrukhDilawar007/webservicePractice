@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="3373" started-at="2019-04-01T19:32:50Z" finished-at="2019-04-01T19:32:53Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="3373" started-at="2019-04-01T19:32:50Z" finished-at="2019-04-01T19:32:53Z">
+      <class name="automation.webServices.testScripts.TC_001">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:automation.webServices.testScripts.TC_001@cc285f4]" name="setUp" is-config="true" duration-ms="14" started-at="2019-04-01T19:32:50Z" finished-at="2019-04-01T19:32:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="getHomeItems()[pri:0, instance:automation.webServices.testScripts.TC_001@cc285f4]" name="getHomeItems" duration-ms="3331" started-at="2019-04-01T19:32:50Z" finished-at="2019-04-01T19:32:53Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getHomeItems -->
+        <test-method status="PASS" signature="closeUp()[pri:0, instance:automation.webServices.testScripts.TC_001@cc285f4]" name="closeUp" is-config="true" duration-ms="0" started-at="2019-04-01T19:32:53Z" finished-at="2019-04-01T19:32:53Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeUp -->
+      </class> <!-- automation.webServices.testScripts.TC_001 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
